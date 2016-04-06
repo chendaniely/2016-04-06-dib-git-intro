@@ -2,6 +2,8 @@ This is the repo for DIB git training intro
 
 Look mom! i'm editing within github!
 
+Look i'm now editing on my local computer
+
 # header 1
 ## header 2
 ### header 3
