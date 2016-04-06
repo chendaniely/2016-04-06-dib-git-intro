@@ -1,5 +1,9 @@
 # This is my thesis
 
+# Abstract
+
+This is a workshop for Data Intensive Biology
+
 # Introduction
 
 This is a workshop on Git
