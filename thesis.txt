@@ -12,3 +12,7 @@ Use Git to version control
 
 People learn git, it's awesome
 
+# Discussion
+
+You should use git for anything important
+
