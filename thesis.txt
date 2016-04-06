@@ -8,3 +8,7 @@ This is a workshop on Git
 
 Use Git to version control
 
+# Results
+
+People learn git, it's awesome
+
